@@ -39,7 +39,7 @@ Un repositorio dedicado a una calculadora con la implementacion de un widget par
 
 
 
-# CODE acrivity_main
+# CODE activity_main
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
