@@ -158,6 +158,9 @@ Un repositorio dedicado a una calculadora con la implementacion de un widget par
 
 ![image](https://github.com/Lesli16/CalculadoraOperacionesBasicas/assets/133244295/17bd6077-648f-4744-b957-80da50153b7f)
 
+# EJECUCIÓN
+
+![image](https://github.com/Lesli16/CalculadoraOperacionesBasicas/assets/133244295/aa97c095-0760-445f-a379-18621e24b736)
 
 
 
